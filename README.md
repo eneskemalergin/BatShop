@@ -18,5 +18,12 @@ Advanced Web Application class project.
 - ```cd BatShop```
 - ```npm install grunt```
 - ```npm install bower```
-- ```npm install yo```
-- ```
+- ```npm install -g yo gulp-cli generator-angular-fullstack```
+
+
+## Running Server with options
+- run server (dev mode): ```grunt serve```
+- run server (production mode): ```grunt serve:dist```
+- run tests: ```grunt test```
+- run e2e tests: ```grunt test:e2e```
+- compile assets: ```grunt build```

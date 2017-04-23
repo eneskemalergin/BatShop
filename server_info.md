@@ -1,5 +1,0 @@
-- run server (dev mode): ```grunt serve```
-- run server (production mode): ```grunt serve:dist```
-- run tests: ```grunt test```
-- run e2e tests: ```grunt test:e2e```
-- compile assets: ```grunt build```
