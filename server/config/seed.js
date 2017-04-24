@@ -3,6 +3,8 @@
  * to disable, edit config/environment/index.js, and set `seedDB: false`
  */
 
+// Sample database populater script. 
+
 'use strict';
 
 var User = require('../api/user/user.model');

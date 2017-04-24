@@ -1,3 +1,4 @@
+// Controller script that has functions to use in model and index
 'use strict';
 
 var _ = require('lodash');

@@ -1,5 +1,6 @@
 /**
  * Main application file
+ * When the server starts with grunt it executes this file
  */
 
 'use strict';
@@ -19,7 +20,7 @@ mongoose.connection.on('error', function(err) {
 });
 
 // Populate databases with sample data
-if (config.seedDB) { require('./config/seed'); }
+// if (config.seedDB) { require('./config/seed'); } // Uncomment if you want to fill the data
 
 // Setup server
 var app = express();

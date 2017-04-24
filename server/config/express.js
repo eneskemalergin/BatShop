@@ -1,5 +1,5 @@
 /**
- * Express configuration
+ * Express configuration for web client server
  */
 
 'use strict';

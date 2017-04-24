@@ -1,3 +1,7 @@
+// Passport is authentication middleware for Node.js.
+// A comprehensive set of strategies support authentication using
+//   a username and password, Facebook, Twitter,
+
 var passport = require('passport');
 var FacebookStrategy = require('passport-facebook').Strategy;
 
