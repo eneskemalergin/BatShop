@@ -1,3 +1,5 @@
+// Enables realtime, bi-directional communication between client and server
+// This part is for web client side and other one is in server.
 /* global io */
 'use strict';
 

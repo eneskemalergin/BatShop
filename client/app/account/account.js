@@ -1,3 +1,5 @@
+// Script that connects account features such as login, settings, and signup
+// This script is called in our index.html that creates the main page.
 'use strict';
 
 angular.module('meanshopApp')

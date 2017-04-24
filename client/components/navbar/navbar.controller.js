@@ -1,3 +1,4 @@
+// Script that make navbar template usable throughtout the website
 'use strict';
 
 angular.module('meanshopApp')

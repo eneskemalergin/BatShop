@@ -1,3 +1,5 @@
+// Script that connects settings page and features to server side by
+//   creating a connection template
 'use strict';
 
 angular.module('meanshopApp')

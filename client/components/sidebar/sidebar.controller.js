@@ -1,3 +1,4 @@
+// Script that make sidebar template usable throughtout the website
 'use strict';
 
 angular.module('meanshopApp')

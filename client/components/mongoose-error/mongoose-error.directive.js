@@ -1,3 +1,5 @@
+// Script that prevents any complication that might cause database corruption
+//  in case of any server error.
 'use strict';
 
 /**

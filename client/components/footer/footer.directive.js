@@ -1,3 +1,4 @@
+// Script that connects footer part of the html 
 'use strict';
 
 angular.module('meanshopApp')
