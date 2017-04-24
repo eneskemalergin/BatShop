@@ -16,8 +16,10 @@ Advanced Web Application class project.
 9. ```npm install -g bower```
 10. ```npm install -g grunt-cli```
 11. ```npm install -g yo gulp-cli generator-angular-fullstack```
-12. ```npm install```
-13. ```bower install```
+12. ```sudo gem install sass```
+13. ```npm install```
+14. ```bower install```
+
 
 
 
